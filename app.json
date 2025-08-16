@@ -6,7 +6,7 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MD~WRMhWZab#8hzMkJM_-O7j7qhvFzqJnxlCh3Ep3VbJPmBxjgMa2JU.",
       "required": true,
       "value": ""
     },  
